@@ -20,7 +20,7 @@ global.APIKeys = {
 // Other
 global.owner = ['6287788409599']
 global.premium = ['6287788409599']
-global.packname = 'Wibu Bot MD'
+global.packname = 'Hanif Bot MD'
 global.author = 'Created By Hanif'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
