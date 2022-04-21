@@ -1144,7 +1144,7 @@ break
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-9202-4190'
+                                    phoneNumber: '+62 877-8840-9599'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1183,7 +1183,7 @@ break
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-9202-4190'
+                                    phoneNumber: '+62 877-8840-9599'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2841,7 +2841,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-9202-4190'
+                                    phoneNumber: '+62 877-8840-9599'
                                 }
                             }, {
                                 quickReplyButton: {
